@@ -10,7 +10,13 @@ public class JC_04_literals {
         String s = "isfjsfdj";
 
         System.out.println(a);
-        System.out.print(s);
+        System.out.println(s);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(f);
+        System.out.println(l);
+        System.out.print(bb);
 
     }
 }

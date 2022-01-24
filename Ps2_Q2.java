@@ -1,4 +1,3 @@
-import java.util.GregorianCalendar;
 
 public class Ps2_Q2 {
     public static void main(String[] args) {
